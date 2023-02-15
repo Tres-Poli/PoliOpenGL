@@ -1,0 +1,4 @@
+﻿  Main.cpp
+B:\c++Pets\OpenGL\Learning\Main.cpp(16,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+B:\c++Pets\OpenGL\Learning\Main.cpp(78,56): warning C4312: 'reinterpret_cast': conversion from 'GLuint' to 'ImTextureID' of greater size
+  Learning.vcxproj -> B:\c++Pets\OpenGL\x64\Debug\Learning.exe
